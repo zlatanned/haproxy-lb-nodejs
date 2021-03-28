@@ -1,7 +1,8 @@
 # (3 NodeJS + 1 Load Balancer containers) with Docker Compose
 
 > using HAProxy as the choice of load-balancer.
-> node version being used is 14.16.0
+
+> node version being used is `14.16.0`
 
 ## Usage
 
